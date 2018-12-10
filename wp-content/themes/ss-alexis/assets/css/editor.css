@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+
+body {
+  width: 760px;
+  font-family: 'Open Sans', sans-serif;
+  color: #333;
+}
+a {
+	text-decoration: none;
+	color: #333;
+}
+a:hover {
+	opacity: 0.7;
+}
+ul, ol {
+	padding-left: 20px;
+}
+th {
+	background-color: #ddd;
+}
+th, td {
+	border: 1px solid #eee;
+	padding: 5px 10px;
+}
+blockquote {
+	background-color: #eee;
+	padding: 5px 30px;
+	margin: 0;
+}
+pre {
+	white-space: pre-wrap;
+}
+p {
+	margin-bottom: 25px;
+	line-height: 1.6em;
+}
+li {
+	margin-bottom: 5px;
+	line-height: 1.4em;
+}
+img {
+	max-width: 100%;
+	height: auto;
+	display: inline-block;
+}
+.alignleft {
+	float: left;
+	margin: 0 30px 10px 0;
+}
+.alignright {
+	float: right;
+	margin: 0 0 10px 30px;
+}
+.aligncenter {
+	float: none;
+}
+.wp-caption img {
+	margin-bottom: 0;
+}
+.wp-caption-text {
+	font-size: 14px;
+	font-style: italic;
+	opacity: 0.7;
+}

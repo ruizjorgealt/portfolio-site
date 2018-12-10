@@ -1,0 +1,230 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Crumbs 1.0.9\n"
+"POT-Creation-Date: 2017-11-11 23:17+0200\n"
+"PO-Revision-Date: 2017-04-20 01:21+0200\n"
+"Last-Translator: WPCrumbs.com <contact@wpcrumbs.com>\n"
+"Language-Team: WPCrumbs <contact@wpcrumbs.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: comments.php:27
+msgid " &larr;  Older Comments"
+msgstr ""
+
+#: comments.php:28
+msgid "Newer Comments  &rarr; "
+msgstr ""
+
+#: comments.php:40
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:14
+msgid "Y"
+msgstr ""
+
+#: footer.php:15
+#, php-format
+msgid "%1$s Theme by %2$s"
+msgstr ""
+
+#: includes/admin.php:64
+msgid "Crumbs recommended plugin(s):"
+msgstr ""
+
+#: includes/admin.php:68
+msgid "activated"
+msgstr ""
+
+#: includes/admin.php:68
+msgid "missing"
+msgstr ""
+
+#: includes/comments.php:18
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: includes/comments.php:23
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: includes/comments.php:32
+msgid "Reply"
+msgstr ""
+
+#: includes/comments.php:36
+msgid "Edit"
+msgstr ""
+
+#: includes/comments.php:57
+msgid "Send"
+msgstr ""
+
+#: includes/comments.php:59
+msgid "Comment"
+msgstr ""
+
+#: includes/comments.php:63
+msgid "Name"
+msgstr ""
+
+#: includes/comments.php:64
+msgid "Email"
+msgstr ""
+
+#: includes/comments.php:65
+msgid "Website"
+msgstr ""
+
+#: includes/comments.php:78
+msgid "View post comments"
+msgstr ""
+
+#: includes/comments.php:78
+msgid "No Comments"
+msgstr ""
+
+#: includes/comments.php:78
+msgid "1 Comment"
+msgstr ""
+
+#: includes/comments.php:78
+msgid "% Comments"
+msgstr ""
+
+#: includes/common.php:33
+msgid "Header menu"
+msgstr ""
+
+#: includes/common.php:61
+msgid "Sidebar Newsletter"
+msgstr ""
+
+#: includes/common.php:63
+msgid "Suitable for \"MailChimp for WordPress\" plugin widget."
+msgstr ""
+
+#: includes/common.php:71
+msgid "Sidebar Footer"
+msgstr ""
+
+#: includes/common.php:107
+msgid "&laquo;"
+msgstr ""
+
+#: includes/common.php:108
+msgid "&raquo;"
+msgstr ""
+
+#: includes/common.php:125
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: includes/common.php:194
+#, php-format
+msgid "%1$s by %2$s"
+msgstr ""
+
+#: includes/customizer.php:28
+msgid "Social Media Icons"
+msgstr ""
+
+#: includes/customizer.php:72
+msgid "Related Posts"
+msgstr ""
+
+#: includes/customizer.php:91
+msgid "Get related posts by"
+msgstr ""
+
+#: includes/customizer.php:147
+msgid "Twitter URL"
+msgstr ""
+
+#: includes/customizer.php:150
+msgid "Facebook URL"
+msgstr ""
+
+#: includes/customizer.php:153
+msgid "Instagram URL"
+msgstr ""
+
+#: includes/customizer.php:156
+msgid "Pinterest URL"
+msgstr ""
+
+#: includes/customizer.php:159
+msgid "Snapchat URL"
+msgstr ""
+
+#: includes/customizer.php:163
+msgid "YouTube URL"
+msgstr ""
+
+#: includes/customizer.php:167
+msgid "Google+ URL"
+msgstr ""
+
+#: search.php:13
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: template-parts/content-none.php:7
+msgid "No posts found based on searched keywords."
+msgstr ""
+
+#: template-parts/content-none.php:10
+msgid "No posts found."
+msgstr ""
+
+#: template-parts/content-none.php:15
+msgid "Go to the homepage"
+msgstr ""
+
+#: template-parts/content-single.php:19
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:26
+msgid "Read more: "
+msgstr ""
+
+#: template-parts/content.php:26
+msgid "Read more"
+msgstr ""
+
+#: template-parts/related-posts.php:3
+msgid "Related articles"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Crumbs"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Minimalist full-width theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WPCrumbs"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://wpcrumbs.com"
+msgstr ""
